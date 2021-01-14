@@ -10,25 +10,23 @@ title:  "Welcome to BraDypUS"
 by [Julian Bogdani](https://www.lettere.uniroma1.it/users/julian-bogdani)
 and released under the terms of the 
 [GNU AGPL-3.0 License](https://www.gnu.org/licenses/agpl-3.0.en.html).
-          
 It is  aimed at easily creating, impementing and publishing 
-[relational databases](https://en.wikipedia.org/wiki/Relational_database) on the Web.
-
+[relational databases](https://en.wikipedia.org/wiki/Relational_database) on the Web.  
 At present, about thirty **Italian and International reserach projects**, 
-mainly related to Archaeology and Cultural Heritage are actively maintained.
-
-Recently a new [Educational branch](https://bdus.cloud/db/edu) has been 
-activated to host research data of younger researchers, 
-typically graduate and PhD students, PostDocs, indipendent researchers, etc.
+mainly related to Archaeology and Cultural Heritage are actively maintained.  
+Recently a new [Educational](https://bdus.cloud/db/edu) service has
+been activated to host research data of younger researchers, 
+typically graduate and PhD students, PostDocs, indipendent researchers, etc. 
+This servce runs latest build of version 4.
 
 ---
 
 ## Links
 
-- [Version 4.x Beta (very active development)](https://bdus.cloud/db/)
-- [Stable (legacy) version (v.3.x)](https://bdus.cloud/db/v3/)
-- [Educational version (v.4.x)](https://bdus.cloud/db/edu/)
-- [Code on Github](https://github.com/bdus-db/BraDypUS)
+- [Hosted version 4.x Beta](https://bdus.cloud/db/)
+- [Hosted stable (legacy) version 3.x](https://v3.bdus.cloud/)
+- [Hosted educational version 4.x](https://bdus.cloud/db/edu/)
+- [Code repository on Github](https://github.com/bdus-db/BraDypUS)
 - [User's guide](https://docs.bdus.cloud)
 
 ----
