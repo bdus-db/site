@@ -17,16 +17,16 @@ mainly related to Archaeology and Cultural Heritage are actively maintained.
 Recently a new [Educational](https://bdus.cloud/db/edu) service has
 been activated to host research data of younger researchers, 
 typically graduate and PhD students, PostDocs, indipendent researchers, etc. 
-This servce runs latest build of version 4.
+This service runs the latest build of the 4.x branch.
 
 ---
 
 ## Links
 
-- [Hosted version 4.x Beta](https://bdus.cloud/db/)
-- [Hosted stable (legacy) version 3.x](https://v3.bdus.cloud/)
-- [Hosted educational version 4.x](https://bdus.cloud/db/edu/)
-- [Code repository on Github](https://github.com/bdus-db/BraDypUS)
+- [Hosted version 4.x (release candidate 1)](https://bdus.cloud/db/)
+- [Hosted stable (soon legacy) version 3.x](https://v3.bdus.cloud/)
+- [Hosted educational version (4.x branch)](https://bdus.cloud/db/edu/)
+- [Repository on Github](https://github.com/bdus-db/BraDypUS)
 - [User's guide](https://docs.bdus.cloud)
 
 ----
@@ -40,7 +40,7 @@ The SaaS version is proudly hosted by the
 
 ## Video presentation
 
-This following is an old presentation video created in 2013 
+This following is an old presentation video created in **2013**
 to introduce the glorious version 3 of BraDypUS.
 While many things have changed, it it still surprisingly fresh and informative!
 

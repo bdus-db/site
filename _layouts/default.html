@@ -17,8 +17,8 @@
   
   <link rel="stylesheet" href={{ "css/style.css" | relative_url }}>
   <link rel="shortcut icon" href="{{ "images/favicon.ico" | relative_url }}">
-  
 </head>
+
 <body class="docs-page">
   
   <div class="container">
@@ -27,11 +27,10 @@
         <div class="my-5 pb-5 text-center">
           <img src={{ "images/bdus.svg" | relative_url }} alt="bdus.cloud" style="max-width: 400px" />
         </div>
-
-        <h2>Blog TOC</h2>
+        <h2>Blog posts</h2>
         <ul>
           {% for post in site.posts %}
-            <li>
+            <li >
               <a href="#{{ post.slug }}">{{ post.title }}</a>
               <span class="text-muted">| {{ post.date | date: "%b %d, %Y"}}</span>
             </li>
