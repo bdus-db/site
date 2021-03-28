@@ -23,9 +23,10 @@ This service runs the latest build of the 4.x branch.
 
 ## Links
 
-- [Hosted version 4.x (release candidate 1)](https://bdus.cloud/db/)
-- [Hosted stable (soon legacy) version 3.x](https://v3.bdus.cloud/)
-- [Hosted educational version (4.x branch)](https://bdus.cloud/db/edu/)
+- [Hosted stable version 4.0.x](https://bdus.cloud/db/)
+- [Hosted legacy version 3.x](https://v3.bdus.cloud/)
+- [Hosted educational version (4.x branch)](https://bdus.cloud/edu/db/)
+- [Hosted development version (4.x branch)](https://bdus.cloud/dev/db/)
 - [Repository on Github](https://github.com/bdus-db/BraDypUS)
 - [User's guide](https://docs.bdus.cloud)
 
